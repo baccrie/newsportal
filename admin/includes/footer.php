@@ -1,4 +1,4 @@
 
                 <footer class="footer text-right">
-                   <?php echo date('Y');?> © Developed by Bakare.
+                   <?php echo date('Y');?> © Developed by baccrie.
                 </footer>
